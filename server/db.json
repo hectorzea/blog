@@ -1,0 +1,102 @@
+{
+  "posts": [
+    {
+      "id": "react-hooks",
+      "title": "React Hooks",
+      "content": "The greatest thing since sliced bread!",
+      "author": "Hector Zea"
+    },
+    {
+      "id": "react-fragments",
+      "title": "Using React Fragments",
+      "content": "Keeping the DOM tree clean!",
+      "author": "Zea"
+    },
+    {
+      "title": "123",
+      "content": "433",
+      "author": "1",
+      "id": "iPMhLci"
+    },
+    {
+      "title": "1",
+      "content": "1",
+      "author": "1",
+      "id": "deauM68"
+    },
+    {
+      "title": "qas",
+      "content": "jaja",
+      "author": "1",
+      "id": "dsk7qLg"
+    },
+    {
+      "title": "xd",
+      "content": "xd",
+      "author": "1",
+      "id": "3KBBPQT"
+    },
+    {
+      "title": "4444",
+      "content": "4444",
+      "author": "1",
+      "id": "LDGNdJ6"
+    },
+    {
+      "title": "raqw",
+      "content": "raqw",
+      "author": "1",
+      "id": "qhTjuQl"
+    },
+    {
+      "title": "",
+      "content": "",
+      "author": "1",
+      "id": "4nBK47l"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "hector",
+      "password": "hector"
+    },
+    {
+      "username": "1",
+      "password": "2",
+      "id": 2
+    },
+    {
+      "username": "222",
+      "password": "2222",
+      "id": 3
+    },
+    {
+      "username": "fdfdf",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "username": "vvvvv",
+      "password": "vvvv",
+      "id": 5
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "primaryColor": "deepskyblue",
+      "secondaryColor": "coral"
+    },
+    {
+      "id": 2,
+      "primaryColor": "orchid",
+      "secondaryColor": "mediumseagreen"
+    },
+    {
+      "id": 3,
+      "primaryColor": "darkslategray",
+      "secondaryColor": "slategray"
+    }
+  ]
+}
