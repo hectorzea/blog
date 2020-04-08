@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1669678-0522-4cc3-8bda-057eef229ce8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetupProxy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CreatePost.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LoginPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RegisterPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contexts/appContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/appReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="b1669678-0522-4cc3-8bda-057eef229ce8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586270483451</updated>
       <workItem from="1586270485037" duration="18660000" />
-      <workItem from="1586351321056" duration="6307000" />
+      <workItem from="1586351321056" duration="6584000" />
     </task>
     <servers />
   </component>
